@@ -103,6 +103,74 @@ header nav a {
     padding-bottom: 20px;  
 }
 
+.about-top-content {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.about-main {
+    border-bottom: 1px dotted black;
+    margin: 20px 10px 20px 10px;
+}
+
+.main-about-content {
+    display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+    justify-content: flex-start;
+    height: 800px;
+}
+
+.main-about-content p {
+    margin: 20px;
+}
+
+.main-about-content .about-strategy {
+    height: 400px;
+    width: 375px;
+    border-bottom: 1px dashed black;
+    margin: 10px;
+}
+
+.main-about-content .how-work {
+    height: 400px;
+    width: 375px;
+    border-bottom: 1px dashed black;
+    margin: 10px;
+}
+
+.main-about-content .places-work {
+    height: 400px;
+    width: 375px;
+    border-bottom: 1px dashed black;
+    margin: 10px;
+}
+
+.main-about-content .collab {
+    height: 400px;
+    width: 375px;
+    border-bottom: 1px dashed black;
+    margin: 10px;
+}
+
+.about-bottom-text {
+    margin: 60px 0px 20px 0px;
+    padding: 10px;
+}
+
+.lm-button {
+    border: 1px solid black;
+	border-radius: 25px;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size: 14px;
+	text-align: center;
+	color: black;
+	background-color: white;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
