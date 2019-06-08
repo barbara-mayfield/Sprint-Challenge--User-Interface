@@ -211,6 +211,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: teal;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .middle-content .boxes .box-two {
@@ -219,6 +221,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: gold;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .middle-content .boxes .box-three {
@@ -227,6 +231,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: cadetblue;
+    text-align: center;
+    padding: 40px 20px;
     } 
 
 .middle-content .boxes .box-four {
@@ -235,6 +241,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: coral;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .middle-content .boxes .box-five {
@@ -243,6 +251,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: crimson;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .middle-content .boxes .box-six {
@@ -251,6 +261,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: forestgreen;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .middle-content .boxes .box-seven {
@@ -259,6 +271,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: darkorchid;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .middle-content .boxes .box-eight {
@@ -267,6 +281,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: hotpink;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .middle-content .boxes .box-nine {
@@ -275,6 +291,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: indigo;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .middle-content .boxes .box-ten {
@@ -283,6 +301,8 @@ header nav a {
     margin: 20px 2.5%;
     color: white;
     background: dodgerblue;
+    text-align: center;
+    padding: 40px 20px;
     }
 
 .bottom-content {
