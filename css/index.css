@@ -171,6 +171,13 @@ header nav a {
 	background-color: white;
 }
 
+.contact-main-top {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    margin: 40px 0px 40px 0px;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
