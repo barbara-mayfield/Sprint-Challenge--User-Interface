@@ -71,6 +71,24 @@ p {
     margin: 0 auto;
 }
 
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0px 20px 0px;
+}
+
+header nav a {
+    margin-right: 65px;
+    font-size: 14px;
+    color: black;
+    text-decoration: none;   
+}
+
+.jumbo-header {
+    margin-bottom: 20px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -83,6 +101,81 @@ p {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
+}
+
+.about-top-content {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.about-main {
+    border-bottom: 1px dotted black;
+    margin: 20px 10px 20px 10px;
+}
+
+.main-about-content {
+    display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+    justify-content: flex-start;
+    height: 800px;
+}
+
+.main-about-content p {
+    margin: 20px;
+}
+
+.main-about-content .about-strategy {
+    height: 400px;
+    width: 375px;
+    border-bottom: 1px dashed black;
+    margin: 10px;
+}
+
+.main-about-content .how-work {
+    height: 400px;
+    width: 375px;
+    border-bottom: 1px dashed black;
+    margin: 10px;
+}
+
+.main-about-content .places-work {
+    height: 400px;
+    width: 375px;
+    border-bottom: 1px dashed black;
+    margin: 10px;
+}
+
+.main-about-content .collab {
+    height: 400px;
+    width: 375px;
+    border-bottom: 1px dashed black;
+    margin: 10px;
+}
+
+.about-bottom-text {
+    margin: 60px 0px 20px 0px;
+    padding: 10px;
+}
+
+.lm-button {
+    border: 1px solid black;
+	border-radius: 25px;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size: 14px;
+	text-align: center;
+	color: black;
+	background-color: white;
+}
+
+.contact-main-top {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    margin: 40px 0px 40px 0px;
 }
 
 .middle-content {
@@ -111,6 +204,106 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+.middle-content .boxes .box-one {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: teal;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+.middle-content .boxes .box-two {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: gold;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+.middle-content .boxes .box-three {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: cadetblue;
+    text-align: center;
+    padding: 40px 20px;
+    } 
+
+.middle-content .boxes .box-four {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: coral;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+.middle-content .boxes .box-five {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: crimson;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+.middle-content .boxes .box-six {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: forestgreen;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+.middle-content .boxes .box-seven {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: darkorchid;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+.middle-content .boxes .box-eight {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: hotpink;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+.middle-content .boxes .box-nine {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: indigo;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+.middle-content .boxes .box-ten {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    background: dodgerblue;
+    text-align: center;
+    padding: 40px 20px;
+    }
 
 .bottom-content {
     display: flex;
